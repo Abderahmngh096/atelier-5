@@ -1,7 +1,6 @@
-#ifndef FILE_H_
-#def FILE_H_
+#ifndef FOURAT_H_
+#def FOURAT_H_
 
-void func(void) {
-}
+void func(void);
 
-#end
+#endif
